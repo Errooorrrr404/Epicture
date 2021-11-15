@@ -1,0 +1,4 @@
+#Wed Oct 28 08:18:49 CET 2020
+base.0=/home/benjamin/Tek3/B-DEV-501-LIL-5-1-epicture-alexandre.dufrenne/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
